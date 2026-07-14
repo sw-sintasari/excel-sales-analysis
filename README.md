@@ -7,11 +7,19 @@ This project analyzes a dataset using Microsoft Excel.
 
 ## Tools Used 
 - Microsoft Excel
-- Power Query
-- PivotTable
-- Excel Dashboard
+- Excel formulas
+- Summary tables
+- PivotTable-style analysis
+- Excel dashboard
+- GitHub documentation
 
 ## Files 
 - Files will be added as soon as possible
 ## Notes 
 The project explanation will be completed as soon as possible. 
+## Summary Matrics
+|Metric|Value|
+|---|---:|
+|Clean Revenue|	Rp |
+|Clean Profit|	Rp |
+|Clean Orders|	0 |
