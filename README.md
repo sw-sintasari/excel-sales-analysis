@@ -20,6 +20,6 @@ The project explanation will be completed as soon as possible.
 ## Summary Matrics
 |Metric|Value|
 |---|---:|
-|Clean Revenue|	Rp |
-|Clean Profit|	Rp |
-|Clean Orders|	0 |
+|Clean Revenue|	Rp1,493 M |
+|Clean Profit|	Rp358 M |
+|Clean Orders|	702 |
